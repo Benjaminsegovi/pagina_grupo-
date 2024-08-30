@@ -1,0 +1,189 @@
+.nav-lista {
+
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 0, 0);
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    border: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    
+}
+
+.nav-lista li a {
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.833);
+    padding: 20px;
+    display: flex;
+        
+}
+
+.nav-lista li {
+
+    display: inline-block;
+    text-align: center;
+
+}
+
+#tit {
+
+    height: auto;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(0, 110, 255, 0.777);
+    border-radius: 5px;
+    border: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+.contenedor1 {
+
+    width: 90%;
+    height: 400px;
+    display: flex;
+    margin: auto;
+
+}
+
+.postres {
+
+    width: 100%;
+    height: 380px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+.postres h3 {
+
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.difini {
+
+    width: auto;
+    height: 90px;
+    padding: 5px 5px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.asada {
+
+    width: 70%;
+    height: 170px;
+    margin: auto;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 110, 255, 0.777);
+
+}
+
+.asada img {
+
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    border: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+.postres p {
+
+    width: 90%;
+    padding: 5px 5px;
+    text-align: center;
+    margin: auto;
+
+}
+
+#box3 {
+
+    width: 70%;
+    height: 150px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+#ubicacion {
+
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    align-content: center;
+    border-right: 1px solid black;
+    padding: 10px 10px;
+
+}
+
+#Horarios {
+
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    align-content: center;
+    border-right: 1px solid black;
+    padding: 10px 10px;
+
+}
+
+#Contacto {
+
+    width: 20%;
+    margin: 10px;
+    padding: 10px 10px;
+    text-align: center;
+    align-content: center;
+
+}
+
+.red {
+
+    color: rgba(0, 110, 255, 0.777);
+    width: 50%;
+    height: 20px;
+    margin: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifq;
+
+}
+
+#insta {
+
+    width: 30px;
+    height: 30px;
+
+}
+
+#face {
+
+    width: 30px;
+    height: 30px;
+
+}
+
+#x {
+
+    width: 30px;
+    height: 30px;
+
+}
