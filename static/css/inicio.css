@@ -32,17 +32,6 @@ body {
 
 }
 
-header {
-
-    width: auto;
-    height: 300px;
-    margin: 10px;
-    align-content: center;
-    justify-content: center;
-    
-}
-
-
 #logo {
 
     align-content: center;
@@ -53,7 +42,9 @@ header {
 
 #box1 {
 
-    margin: 15px;
+    width: 90%;
+    margin: auto;
+    padding: 5px 5px;
     justify-content: space-around;
     display: flex;
     
